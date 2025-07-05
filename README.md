@@ -9,6 +9,8 @@ Highlights:
 🎬 Real-time Program Generation
 💻 Layouts
 🎭 Client & Server Components
+
+
 Features
 Smart AI Assistant: Engage in conversation with an AI that asks about your fitness goals, physical condition, and preferences
 Personalized Workout Plans: Get custom exercise routines based on your fitness level, injuries, and goals
